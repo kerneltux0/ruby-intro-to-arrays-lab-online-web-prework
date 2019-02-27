@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def instantiate_new_array
   array = []
 end
@@ -35,3 +36,7 @@ def length_of_array(array)
   my_first_array = ["Thailand", "TV", "UK", "Darth Vader", "4th Doctor", "TARDIS", "Style", "Myanmar"]
   my_first_array.length
 end
+=======
+instantitate_new_array = []
+
+>>>>>>> 7ff84b41022f3c71dc431fe4017fed81efea7263
